@@ -1,6 +1,6 @@
 # Client intake portal for a CPA firm
 
-I'm a CPA. I designed and built a secure client intake system for a small tax firm, using AI coding tools to write the code. This repository is a showcase: a short description, a demo, my key decisions and a few example files. The full project stays private because it belongs to the firm.
+I'm an Accountant. I designed and built a secure client intake system for a small tax firm, using AI coding tools to write the code. This repository is a showcase: a short description, a demo, my key decisions and a few example files. The full project stays private because it belongs to the firm.
 
 ## The problem
 
@@ -33,7 +33,7 @@ I'm not a programmer. I worked as the product owner:
 - Set up the hosting, database and email accounts
 - Made and logged every decision
 
-The code was written with Claude and ChatGPT, one step at a time. I explained each step, reviewed the result and tried it myself before accepting it. The project has about 2,900 automated tests.
+The code was written with the help of claude. I explained each step, reviewed the result and tried it myself before accepting it. The project has about 2,900 automated tests.
 
 ## Built with
 
