@@ -41,7 +41,13 @@ Python (FastAPI) server and background worker, two React (TypeScript) websites, 
 
 ## Demo
 
-See the `media` folder for a short video and screenshots. All data shown is made up.
+All data shown is made up.
+
+![Client questionnaire](media/1-questionnaire.png)
+![Client document list](media/2-documents.png)
+![Staff client list](media/3-client-list.png)
+![Staff documents tab](media/4-staff-documents.png)
+![Ready to prepare](media/5-ready.png)
 
 ## Key decisions
 
