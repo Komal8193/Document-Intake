@@ -1,7 +1,7 @@
 """A small sample of the tax-year 2026 questionnaire and its document rules.
 
 The full questionnaire has about 230 questions. Questions are plain data, so I can review and change
-them as a CPA without touching program code. Each question can depend on an earlier answer ("show"),
+them without touching program code. Each question can depend on an earlier answer ("show"),
 and each document rule says which answer makes a document required ("when").
 """
 
